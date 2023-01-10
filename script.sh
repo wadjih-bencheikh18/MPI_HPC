@@ -1,0 +1,1 @@
+mpicc $1 -o output && mpirun ./output
